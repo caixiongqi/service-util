@@ -1,0 +1,6 @@
+dependencies {
+	compile("org.projectlombok:lombok:1.16.10") //lombok注解
+	compile('com.google.guava:guava:21.0') //google提供的Collections功能
+    compile('commons-io:commons-io:2.5') // FileUtils、IOUtils、FilenameUtils
+    compile ('commons-lang:commons-lang:2.6') //StringUtils
+}
